@@ -1,4 +1,4 @@
-**UDP_Calc**
+# UDP_Calc
 
 Similar to my TCP_Document_Statistics repository, this repo contains the client and server-side scripts for a UDP calculator. 
 The client can input data which is then sent to the server. The server solves the task and returns the answer to the client.
